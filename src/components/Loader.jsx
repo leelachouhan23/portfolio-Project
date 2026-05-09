@@ -55,7 +55,7 @@ export default function Loader({ onComplete }) {
             Leela Chouhan
           </h2>
           <p className="text-slate-400 text-sm mb-8 font-mono">
-            Frontend Developer
+            Web Developer
           </p>
 
           {/* Progress bar */}

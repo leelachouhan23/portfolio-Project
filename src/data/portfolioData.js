@@ -7,7 +7,7 @@ export const personalInfo = {
   // ── Basic Info ──────────────────────────────────────────────
   name: "Leela Chouhan",
   role: "Web Developer",
-  tagline: "Frontend Developer | React Developer | MERN Stack Learner",
+  tagline: "Web Developer | React Developer | MERN Stack Learner",
   location: "Jashpur, Chhattisgarh",
   email: "leela23@navgurukul.org",
   resumeUrl: "/Leela_Chouhan.pdf",
@@ -28,7 +28,7 @@ export const personalInfo = {
       // <-- UPDATE THIS (your Twitter URL)
 
   // ── About ────────────────────────────────────────────────────
-  about: `I'm Leela Chouhan, a detail-oriented Computer Science postgraduate student and frontend developer from Jashpur, Chhattisgarh. I build responsive web applications and love turning ideas into polished user experiences.
+  about: `I'm Leela Chouhan, a detail-oriented Computer Science postgraduate student and Web developer from Jashpur, Chhattisgarh. I build responsive web applications and love turning ideas into polished user experiences.
 
 I've hands-on experience with the MERN stack — from crafting pixel-perfect UIs with React to building REST APIs with Node.js and Express, backed by MongoDB. Beyond code, I've coordinated academic programs at NavGurukul, sharpening my skills in communication, organisation, and leadership.
 
